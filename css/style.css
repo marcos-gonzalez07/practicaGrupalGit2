@@ -23,3 +23,9 @@ main{
   background-color: #007bff;
   color: white;
 }
+.comunidad{
+  width: 100%;
+  height: 185px;
+  object-fit: cover;
+ 
+}
