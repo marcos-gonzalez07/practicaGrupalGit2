@@ -19,3 +19,7 @@ main{
   object-fit: cover;
   border-radius: 50%;
 }
+.frase{
+  background-color: #007bff;
+  color: white;
+}
